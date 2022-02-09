@@ -8,7 +8,7 @@ def run():
             print('Warning: Data integrity has been comprimised')
         else:
             print('The "app" is up-to-date')
-        time.sleep(10)
+        time.sleep(5)
 
 
 if __name__ == "__main__":
